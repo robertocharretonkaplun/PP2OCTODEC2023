@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 59b92d64ac8e4624d9c340a90da08a07
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - BB Manual Mono Pro Text
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: dfa646902ca39d647aa88672080f2bbc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
